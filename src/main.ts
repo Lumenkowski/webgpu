@@ -1,3 +1,1 @@
-const canvas: HTMLCanvasElement = document.getElementById( "webgpu" )! as HTMLCanvasElement
-
-console.log( canvas )
+import "./render/01.hello-triangle"
